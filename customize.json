@@ -8,8 +8,8 @@
   "textInChatBox": "生日快乐 耶 身体健康哦",
   "sendButtonLabel": "发送",
   "text2": "这是我原本要做的",
-  "text3": "但是我不要了.",
-  "text4": "我觉得要做一些",
+  "text3": "但是我不要。",
+  "text4": "我想要做一些",
   "text4Adjective": "特别的",
   "text5Entry": "因为,",
   "text5Content": "你是特别的",
@@ -17,7 +17,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "生日快乐!",
-  "outroText": "好了， 你可以去告诉我， 你的感想了.",
-  "replayText": "或者点击， 重新观看哦.",
+  "outroText": "好了，祝你有个愉快的一天。 打扰了",
+  "replayText": "点击重新观看哦。",
   "outroSmiley": ":)"
 }
