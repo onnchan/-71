@@ -237,6 +237,11 @@ body {
   .six .hat {
     left: 22%;
   }
+  .six img {
+    display: inline-block;
+    width: auto;
+    height: 470px;
+  }
 }
 
 @media screen and (max-height: 800px) {
