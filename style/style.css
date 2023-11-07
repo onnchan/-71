@@ -233,6 +233,15 @@ body {
 }
 
 /* Media Queries */
+@media screen and (max-height: 1500px) {
+  .six img {
+    display: inline-block;
+    width: auto;
+    height: 470px;
+  }
+}
+
+/* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
     left: 22%;
